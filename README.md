@@ -7,6 +7,10 @@
 
 </div>
 
+- 🚀 I'm a Data Engineer from Vietnam, currently pursuing a Master's degree in Melbourne, Australia.
+- 🌱 I’m passionate about AWS Services and other Big Data Engineering Tools [serverless in AWS](https://aws.amazon.com/serverless/)
+- 📌 Hobby: I love playing guitar and listening to music
+
 
 
 <div align="center">

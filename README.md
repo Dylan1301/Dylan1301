@@ -1,3 +1,6 @@
+<div align="center">
+[![Hello World ! I'm Dylan!](assets/Dylan.gif)](https://github.com/dylan1301)
+
 ### Hi there 👋, I am Dylan Nguyen
 
 I am Dylan Nguyen, A Data Engineer 

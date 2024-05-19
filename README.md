@@ -5,6 +5,7 @@
 
 I am Dylan Nguyen, A Data Engineer 
 
+</div>
 
 ## 🏆 My Stats:
 
